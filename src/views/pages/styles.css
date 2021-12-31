@@ -1,0 +1,81 @@
+.errors{
+    color: red;
+    font-family: Times New Roman;
+    font-size: 15px;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+.gendererror,.locerror{
+    color: red;
+    font-family: Times New Roman;
+    font-size: 15px;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+.accepterror{
+    color: red;
+    font-family: Times New Roman;
+    font-size: 15px;
+    margin-left: 3px;
+}
+.container{
+    padding-top: 100px;
+    padding-left: 500px;
+    margin-top: 50px; 
+     
+}
+
+.header{
+    font-family: Georgia;
+    font-size: 25px;
+    color: sienna;
+    font-weight: bold;
+    margin-bottom: 20px;
+    
+}
+
+.name{
+    font-size: 20px;
+}
+
+input[type='text'],input[type='password']{
+    display: block;
+    background: #F9F9F9;
+    font-family: Garamond;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+
+
+label{
+      font-family:Georgia ;
+      font-size: 20px;
+      margin-bottom: 0px;
+      color:darkgreen;
+      margin-left: 50px;
+      
+}
+
+button{
+      color:black;
+      font-size: 15px;
+      background-color: salmon;
+      padding: 10px 20px; 
+      margin-top: 5px;
+      border-radius: 5px;
+      margin-top: 15px;
+      margin-bottom: 15px;
+      width: 130px; 
+}
+
+.link{
+    font-weight: bolder;
+    
+}
+input[type='radio']{
+    margin-bottom: 15px;
+    
+}
